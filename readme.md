@@ -1,0 +1,3 @@
+# My Faux Resume
+
+This is an npm resume sandbox version so that I can get familiar with the current lesson about Promises, Json, and Node.  Sorry for the very short description but I can't think of anything else to write in this readme...
